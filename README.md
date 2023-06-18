@@ -1,6 +1,5 @@
 
 # Single Page E-commerce Interface
-
 A ecommerce landing page made through core html and CSS 
 
 ## :Good For:
